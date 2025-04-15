@@ -1,0 +1,10 @@
+release/main.o
+release/MainWindow.o
+release/Node.o
+release/NodeGraph.o
+release/InputNode.o
+release/OutputNode.o
+release/moc_MainWindow.o
+release/moc_NodeModel.o
+release/moc_InputNode.o
+release/moc_OutputNode.o

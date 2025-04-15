@@ -1,0 +1,10 @@
+debug/main.o
+debug/MainWindow.o
+debug/Node.o
+debug/NodeGraph.o
+debug/InputNode.o
+debug/OutputNode.o
+debug/moc_MainWindow.o
+debug/moc_NodeModel.o
+debug/moc_InputNode.o
+debug/moc_OutputNode.o
